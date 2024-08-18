@@ -53,7 +53,7 @@ fun WalletSection() {
             Icon(
                 imageVector = Icons.Rounded.Search,
                 contentDescription = "Search",
-                tint = MaterialTheme.colorScheme.secondaryContainer,
+                tint = MaterialTheme.colorScheme.onSecondaryContainer,
             )
         }
     }
